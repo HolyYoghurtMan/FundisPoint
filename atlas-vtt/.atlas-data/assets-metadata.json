@@ -151,6 +151,136 @@
       "id": "token-1790845220230-sql459",
       "createdAt": 1790845220230,
       "modifiedAt": 1790845220230
+    },
+    "token-1791224294598-s96qev": {
+      "name": "Cleric",
+      "imagePath": "atlas-vtt/assets/Cleric_1791224294527_osunt7.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224294598-s96qev",
+      "createdAt": 1791224294598,
+      "modifiedAt": 1791224294598
+    },
+    "token-1791224294979-urucyl": {
+      "name": "Fighter",
+      "imagePath": "atlas-vtt/assets/Fighter_1791224294974_wnised.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224294979-urucyl",
+      "createdAt": 1791224294979,
+      "modifiedAt": 1791224294979
+    },
+    "token-1791224294990-sz8x0c": {
+      "name": "Paladin",
+      "imagePath": "atlas-vtt/assets/Paladin_1791224294986_9vkimy.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224294990-sz8x0c",
+      "createdAt": 1791224294990,
+      "modifiedAt": 1791224294990
+    },
+    "token-1791224295002-f4teiv": {
+      "name": "Ranger",
+      "imagePath": "atlas-vtt/assets/Ranger_1791224294998_eaklcl.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224295002-f4teiv",
+      "createdAt": 1791224295002,
+      "modifiedAt": 1791224295002
+    },
+    "token-1791224295011-wx7cob": {
+      "name": "Rogue",
+      "imagePath": "atlas-vtt/assets/Rogue_1791224295007_n7mfzk.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224295011-wx7cob",
+      "createdAt": 1791224295011,
+      "modifiedAt": 1791224295011
+    },
+    "token-1791224295033-067abc": {
+      "name": "Warlock",
+      "imagePath": "atlas-vtt/assets/Warlock_1791224295019_ttcigp.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224295033-067abc",
+      "createdAt": 1791224295033,
+      "modifiedAt": 1791224295033
+    },
+    "token-1791224295046-0fb7of": {
+      "name": "Wizard",
+      "imagePath": "atlas-vtt/assets/Wizard_1791224295039_hu2soe.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224295046-0fb7of",
+      "createdAt": 1791224295046,
+      "modifiedAt": 1791224295046
+    },
+    "token-1791224295066-0548q4": {
+      "name": "Knight",
+      "imagePath": "atlas-vtt/assets/Knight_1791224295058_8a58nv.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224295066-0548q4",
+      "createdAt": 1791224295066,
+      "modifiedAt": 1791224295066
+    },
+    "token-1791224295080-so8qea": {
+      "name": "Assassin",
+      "imagePath": "atlas-vtt/assets/Assassin_1791224295072_hec2s6.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224295080-so8qea",
+      "createdAt": 1791224295080,
+      "modifiedAt": 1791224295080
+    },
+    "token-1791224295093-4lsygp": {
+      "name": "Occultist",
+      "imagePath": "atlas-vtt/assets/Occultist_1791224295085_fo3njc.webp",
+      "collection": "Default",
+      "tags": [
+        "Class"
+      ],
+      "showRing": true,
+      "type": "token",
+      "id": "token-1791224295093-4lsygp",
+      "createdAt": 1791224295093,
+      "modifiedAt": 1791224295093
     }
   },
   "version": 2,

@@ -1,80 +1,21 @@
 {
   "main": {
-    "id": "206bc23997f3ae65",
+    "id": "9dbc308fdd9339b6",
     "type": "split",
     "children": [
       {
-        "id": "fd69e68964acdb2e",
+        "id": "ac914113917300af",
         "type": "tabs",
         "children": [
           {
-            "id": "22f22d13ec8b3bf0",
+            "id": "cf50f0b71e478a70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Society/People/Individuals/Isodorus Calahan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Isodorus Calahan"
-            },
-            "group": "50b39aa99f7d5d5e"
-          }
-        ]
-      },
-      {
-        "id": "063ec6fc22d82703",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "87c4473ff2a69fc6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Society/People/Individuals/Isodorus Calahan.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.9999999999999992,
-                  "close": true
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph of Isodorus Calahan"
-            },
-            "group": "50b39aa99f7d5d5e"
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -82,16 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab119770e7b10b64",
+    "id": "f3cf010e8cb62176",
     "type": "split",
     "children": [
       {
-        "id": "acb99bf0560455ae",
+        "id": "d9629cfcca8fe991",
         "type": "tabs",
-        "dimension": 70.8080808080808,
         "children": [
           {
-            "id": "da91efc2d7647fbb",
+            "id": "29570d1611159743",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -106,12 +46,12 @@
             }
           },
           {
-            "id": "4ad26e815da86cc1",
+            "id": "36811ff637c732c4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tae",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,29 +63,38 @@
             }
           },
           {
-            "id": "de01e76d2300aa0d",
+            "id": "c20823fbc51bb407",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "325ba856c1f9785f",
+    "type": "split",
+    "children": [
       {
-        "id": "ed10a7837eea98aa",
+        "id": "d25746de49988c8c",
         "type": "tabs",
-        "dimension": 29.19191919191919,
         "children": [
           {
-            "id": "eb9126a34e216c7a",
+            "id": "7f73b19f2057b8fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Society/People/Individuals/Isodorus Calahan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,56 +106,22 @@
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "e7489b12d28daf22",
-    "type": "split",
-    "children": [
-      {
-        "id": "ffa17c341399aff0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e45dc7f6a935abb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Nine Great Temples.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Nine Great Temples"
-            }
           },
           {
-            "id": "1a84b39420c2eda2",
+            "id": "32010a1da263e480",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nine Great Temples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nine Great Temples"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "530ebdbafa56cb34",
+            "id": "be6a043fb86f39f6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -221,18 +136,31 @@
             }
           },
           {
-            "id": "8473003976691982",
+            "id": "5dd89a92a12852c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "845a28ddb7f13516",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nine Great Temples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nine Great Temples"
+              "title": "Outline"
             }
           }
         ]
@@ -253,54 +181,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "da91efc2d7647fbb",
+  "active": "cf50f0b71e478a70",
   "lastOpenFiles": [
     "creation of the Orc and Human.md",
-    "God B.md",
-    "God A.md",
-    "Human.md",
-    "Orc.md",
-    "Untitled.base",
-    "Society/People/Individuals/Isodorus Calahan.md",
-    "Society/Structures/Legal/Untitled.md",
-    "Invaders.md",
-    "Society/Structures/Titles",
-    "atlas-vtt/assets/Warlock_1790845220194_xxma5n.webp",
-    "atlas-vtt/assets/Wizard_1790845220202_h4hv99.webp",
-    "atlas-vtt/assets/Rogue_1790845220186_nv82ol.webp",
-    "atlas-vtt/assets/Ranger_1790845220177_01ojzt.webp",
-    "atlas-vtt/assets/Paladin_1790845220168_n8aiq4.webp",
-    "atlas-vtt/assets/Occultist_1790845220226_9b4t2p.webp",
-    "atlas-vtt/assets/Knight_1790845220209_46qr72.webp",
-    "atlas-vtt/assets/Fighter_1790845220161_t26eld.webp",
-    "atlas-vtt/assets/Cleric_1790845220151_0ffbsh.webp",
-    "atlas-vtt/assets/Assassin_1790845220218_ij5i3g.webp",
-    "Locations/Known Locations/Fundis Point/Nine Great Temples/Temple of War.md",
-    "atlas-vtt/collections/Default/players",
-    "atlas-vtt/collections/Default/encounters",
-    "atlas-vtt/collections/Default/scenes",
-    "atlas-vtt/collections/Default/characters",
-    "atlas-vtt/collections/Default/maps",
-    "atlas-vtt/collections/Default/statblocks",
-    "atlas-vtt/collections/Default/notes",
-    "atlas-vtt/collections/Default/tokens",
-    "Locations/Known Locations/Fundis Point/Nine Great Temples/Eight Great Temples.md",
     "Fashion in Fundis Point.md",
-    "Ward Key Signet.md",
-    "Locations/Known Locations/Fundis Point/Blade Wharf/The Tunnels.md",
-    "Tunnelman.md",
-    "Society/People/Groups/Communities/Tunnelman.md",
-    "Locations/Known Locations/Fundis Point/Nine Great Temples/Temple of Order.md",
-    "Locations/Known Locations/Fundis Point/Nine Great Temples/Temple of Wisdom.md",
-    "Locations/Known Locations/Fundis Point/Nine Great Temples/Temple of Ash.md",
-    "Locations/Known Locations/Fundis Point/Blade Wharf/The Walks.md",
-    "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
-    "Society/Structures/Legal/Book of Laws/The Pathfinder's Accord.md",
-    "Society/Structures/Legal/Parliament.md",
-    "Society/People/Groups/Species/Cognitive Automata.md",
-    "Society/Structures/Guilds/Guild of Free Swords.md",
-    "Society/Structures/Guilds/The Guildsleague.md",
-    "Automata.md",
-    "Untitled.canvas"
+    "atlas-vtt/assets/Occultist_1791224295085_fo3njc.webp",
+    "atlas-vtt/assets/Assassin_1791224295072_hec2s6.webp",
+    "atlas-vtt/assets/Knight_1791224295058_8a58nv.webp",
+    "atlas-vtt/assets/Wizard_1791224295039_hu2soe.webp",
+    "atlas-vtt/assets/Warlock_1791224295019_ttcigp.webp",
+    "atlas-vtt/assets/Rogue_1791224295007_n7mfzk.webp",
+    "atlas-vtt/assets/Ranger_1791224294998_eaklcl.webp",
+    "atlas-vtt/assets/Paladin_1791224294986_9vkimy.webp",
+    "atlas-vtt/assets/Fighter_1791224294974_wnised.webp",
+    "atlas-vtt/assets/Cleric_1791224294527_osunt7.webp"
   ]
 }
