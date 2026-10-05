@@ -1,0 +1,1 @@
+The organization formed by the entire network of Guilds. They hold ultimate power over the economy in the city. They have a large council with representatives from every Guild. Should any Guild refuse to play ball, they could be ousted from the league, meaning their interests go unrepresented in [[Parliament]].

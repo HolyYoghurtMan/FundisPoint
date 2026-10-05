@@ -1,0 +1,6 @@
+Signed on the 28th of December in year 503, the Pathfinder's Accord is the 12 863rd Law written into the lawbooks of Fundis Point.
+Written by [[Parliament]]
+The Pathfinder's accord consists of 4 sections with subsections. The meaning of these sections is as follows:
+1. Creation of the Branch of Pathfinders in the army of Fundis Point, and the return of funding to the House of Mapmakers, which was previously abolished in Bill 800. The House of Mapmakers will make any remaining historical maps available to the Pathfinders, and train aspirant Pathfinders in the writing of maps.
+2. Limits the candidacy to become a Pathfinder to individuals that fulfill certain qualifications, and details the punishment procedure if anyone is found in breach of these qualifications. These qualifications are that no one that owes anyone else a debt or has a long running Punishment entails house arrest with the exception of the workplace until a debt is paid off, a contract finished, on top of a time of community service. 
+3. 

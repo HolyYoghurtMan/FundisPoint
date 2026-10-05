@@ -1,0 +1,1 @@
+Creator of the [[Orc]], and sibling to [[God A]]

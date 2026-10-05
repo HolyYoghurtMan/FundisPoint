@@ -1,0 +1,1 @@
+The god who created the [[Human]], sibling of [[God B]]

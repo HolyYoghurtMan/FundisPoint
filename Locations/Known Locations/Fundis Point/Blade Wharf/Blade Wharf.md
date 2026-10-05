@@ -1,0 +1,3 @@
+The flat area around the [[Temple of War|Citadel]] that houses the construction of War Engines and weaponry. Today the Blade Wharf is a tangled web of scaffolds, walkways and production houses. As the shops started piling up , they started building up and down to find more places to fit them. There's 3 levels to the Blade Wharf today: ground level, [[The Tunnels]] and [[The Walks]]. 
+
+It was once a marketplace for the first settlers. Due to its proximity to the Citadel, it was a popular place with the soldiers and guards, so smiths started setting up shops around the marketplace. As more smiths started gathering and the siege on the city grew thicker and heavier, they started making War Engines here.

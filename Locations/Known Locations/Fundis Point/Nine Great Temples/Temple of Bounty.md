@@ -1,0 +1,3 @@
+This place is the lifeblood of the city, as it is the only supply of food for all its inhabitants. By far the largest of the Great Temples, its wide footprint sits on the southern face of the mountain. It contains over two dozens floor of fields, orchards and pastures.
+
+It was a gift of the God of nature and plenty when [[Nine Gods|They]] created the city, and divine magic shines light on the many floors it houses so that

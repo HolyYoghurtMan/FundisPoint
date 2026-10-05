@@ -1,0 +1,1 @@
+A badge that imbues its wearer with Authority over the [[Temple of War]].
