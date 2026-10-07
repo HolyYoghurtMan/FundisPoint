@@ -1,0 +1,3 @@
+In the years leading up to 54 after the founding of the City, Automaton fabricators had been producing more and more automata for the factories of the [[Northends]] and [[Blade Wharf]]. Over the period of a couple months, the owners of these factories purchased more and more of these to replace the continuous cost of wages for their workers.
+
+Unrest built within the boroughs until the packers of the [[placeholder factory]] were fired and they refused to leave this workplace.

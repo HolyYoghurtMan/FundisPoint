@@ -4,20 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "ac914113917300af",
-        "type": "tabs",
+        "id": "b1749f6d4737216f",
+        "type": "split",
         "children": [
           {
-            "id": "cf50f0b71e478a70",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+            "id": "ac914113917300af",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40553a3eff6ffbee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lawless years.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lawless years"
+                },
+                "group": "066c95b530fbd738"
+              }
+            ]
+          },
+          {
+            "id": "e4e39fef31667c62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e302cd7ae285bb06",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Lawless years.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Lawless years"
+                },
+                "group": "066c95b530fbd738"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -29,6 +95,7 @@
       {
         "id": "d9629cfcca8fe991",
         "type": "tabs",
+        "dimension": 65.74642126789367,
         "children": [
           {
             "id": "29570d1611159743",
@@ -73,6 +140,23 @@
               },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "48beb416431715ed",
+        "type": "tabs",
+        "dimension": 34.25357873210634,
+        "children": [
+          {
+            "id": "20d551b9da0f9878",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -181,19 +265,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf50f0b71e478a70",
+  "active": "40553a3eff6ffbee",
   "lastOpenFiles": [
+    "Lawless years.md",
+    "History/Year of the Breach.md",
+    "History/54 FT Labor Riot.md",
+    "Automata.md",
+    "Society/Structures/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
+    "Society/Structures/Legal/Book of Laws/The Pathfinder's Accord.md",
+    "God B.md",
+    "Untitled.base",
+    "atlas-vtt/assets/Assassin_1791267468040_eo0hwx.webp",
+    "atlas-vtt/assets/Knight_1791267468029_hwpayo.webp",
+    "atlas-vtt/assets/Wizard_1791267468018_t3aya4.webp",
+    "atlas-vtt/assets/Warlock_1791267468008_z4003l.webp",
+    "atlas-vtt/assets/Rogue_1791267467997_xdzrzd.webp",
+    "atlas-vtt/assets/Ranger_1791267467987_6d1zuf.webp",
+    "atlas-vtt/assets/Paladin_1791267467975_i0kwfl.webp",
+    "atlas-vtt/assets/Fighter_1791267467963_x2gfe1.webp",
+    "atlas-vtt/assets/Cleric_1791267467943_9dpe91.webp",
+    "atlas-vtt/collections/Default/players",
+    "atlas-vtt/collections/Default/encounters",
+    "atlas-vtt/collections/Default/scenes",
+    "atlas-vtt/collections/Default/characters",
+    "atlas-vtt/collections/Default/maps",
+    "atlas-vtt/collections/Default/statblocks",
+    "atlas-vtt/collections/Default/notes",
+    "atlas-vtt/collections/Default/tokens",
+    "atlas-vtt/collections/Default",
     "creation of the Orc and Human.md",
     "Fashion in Fundis Point.md",
-    "atlas-vtt/assets/Occultist_1791224295085_fo3njc.webp",
-    "atlas-vtt/assets/Assassin_1791224295072_hec2s6.webp",
-    "atlas-vtt/assets/Knight_1791224295058_8a58nv.webp",
-    "atlas-vtt/assets/Wizard_1791224295039_hu2soe.webp",
-    "atlas-vtt/assets/Warlock_1791224295019_ttcigp.webp",
-    "atlas-vtt/assets/Rogue_1791224295007_n7mfzk.webp",
-    "atlas-vtt/assets/Ranger_1791224294998_eaklcl.webp",
-    "atlas-vtt/assets/Paladin_1791224294986_9vkimy.webp",
-    "atlas-vtt/assets/Fighter_1791224294974_wnised.webp",
-    "atlas-vtt/assets/Cleric_1791224294527_osunt7.webp"
+    "atlas-vtt/assets/Occultist_1791224295085_fo3njc.webp"
   ]
 }
