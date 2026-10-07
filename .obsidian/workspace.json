@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Lawless years.md",
+                    "file": "History/Lawless years.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Lawless years.md",
+                    "file": "History/Lawless years.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -153,6 +153,19 @@
             "id": "20d551b9da0f9878",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6b9ec8c80820afb0",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -163,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "325ba856c1f9785f",
@@ -265,16 +278,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "40553a3eff6ffbee",
+  "active": "20d551b9da0f9878",
   "lastOpenFiles": [
-    "Lawless years.md",
+    "History/Lawless years.md",
+    "Untitled.base",
     "History/Year of the Breach.md",
     "History/54 FT Labor Riot.md",
     "Automata.md",
     "Society/Structures/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
     "Society/Structures/Legal/Book of Laws/The Pathfinder's Accord.md",
     "God B.md",
-    "Untitled.base",
     "atlas-vtt/assets/Assassin_1791267468040_eo0hwx.webp",
     "atlas-vtt/assets/Knight_1791267468029_hwpayo.webp",
     "atlas-vtt/assets/Wizard_1791267468018_t3aya4.webp",

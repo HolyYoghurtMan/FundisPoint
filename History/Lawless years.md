@@ -1,0 +1,3 @@
+A period, spanning an unclear amount of time between the [[Year of the Breach]] and the [[True Founding of Fundis Point]].
+
+These years are a restless period. Within the relatively small area that was contained within the walls of the city, many enemies and rivals were forced into a crucible, fighting over control of the [[Eight Great Temples]], the space between them and the people within the walls. Camps were built from the carriages people came in, which grew into small fortresses over time. By the end of the Lawless Years, these fortresses would become the administrative centers of the 11 boroughs
