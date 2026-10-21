@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "History/Lawless years.md",
+                    "file": "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -32,7 +32,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Lawless years"
+                  "title": "Blade Wharf"
                 },
                 "group": "066c95b530fbd738"
               }
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "History/Lawless years.md",
+                    "file": "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -72,11 +72,11 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 1,
-                      "close": false
+                      "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Lawless years"
+                  "title": "Graph of Blade Wharf"
                 },
                 "group": "066c95b530fbd738"
               }
@@ -153,19 +153,6 @@
             "id": "20d551b9da0f9878",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "6b9ec8c80820afb0",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -176,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "325ba856c1f9785f",
@@ -278,15 +265,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "20d551b9da0f9878",
+  "active": "40553a3eff6ffbee",
   "lastOpenFiles": [
+    "Society/Social Constructs/Legal/Book of Laws/The Pathfinder's Accord.md",
+    "Society/Social Constructs/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
+    "Society/Social Constructs/Titles/High Marshal of the Armies and Chief Commander of the Guard.md",
+    "Society/Social Constructs/Legal/Parliament.md",
+    "Society/Social Constructs/Legal/Book of Laws",
+    "Society/Social Constructs/Guilds/The Guildsleague.md",
+    "Society/Social Constructs/Guilds/Guild of Free Swords.md",
+    "Society/Social Constructs/Titles",
+    "Society/Social Constructs/Legal",
+    "Society/Social Constructs/Guilds",
+    "Society/Social Constructs",
+    "Society/People/Groups/Species/Telepolos.md",
+    "Society/People/Groups/Species/Orc.md",
+    "Society/People/Groups/Species/Human.md",
+    "One manufacturer.md",
+    "History/55 FT, The Taeo Trials.md",
     "History/Lawless years.md",
-    "Untitled.base",
-    "History/Year of the Breach.md",
-    "History/54 FT Labor Riot.md",
-    "Automata.md",
-    "Society/Structures/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
     "Society/Structures/Legal/Book of Laws/The Pathfinder's Accord.md",
+    "Society/Structures/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
+    "Society/Structures/Titles/High Marshal of the Armies and Chief Commander of the Guard.md",
+    "Society/Structures/Legal/Parliament.md",
+    "Society/Structures/Legal/Book of Laws",
+    "Society/Structures/Guilds/The Guildsleague.md",
+    "Society/Structures/Guilds/Guild of Free Swords.md",
+    "Society/Structures/Titles",
+    "Society/Structures/Legal",
+    "Society/Structures/Guilds",
+    "Society/Structures",
+    "Society/People/Groups/Species/Cognitive Automata.md",
+    "Orc.md",
+    "Lawless years.md",
+    "Human.md",
+    "History/Taeo Trials.md",
+    "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
+    "Invaders.md",
     "God B.md",
     "atlas-vtt/assets/Assassin_1791267468040_eo0hwx.webp",
     "atlas-vtt/assets/Knight_1791267468029_hwpayo.webp",
@@ -297,17 +312,6 @@
     "atlas-vtt/assets/Paladin_1791267467975_i0kwfl.webp",
     "atlas-vtt/assets/Fighter_1791267467963_x2gfe1.webp",
     "atlas-vtt/assets/Cleric_1791267467943_9dpe91.webp",
-    "atlas-vtt/collections/Default/players",
-    "atlas-vtt/collections/Default/encounters",
-    "atlas-vtt/collections/Default/scenes",
-    "atlas-vtt/collections/Default/characters",
-    "atlas-vtt/collections/Default/maps",
-    "atlas-vtt/collections/Default/statblocks",
-    "atlas-vtt/collections/Default/notes",
-    "atlas-vtt/collections/Default/tokens",
-    "atlas-vtt/collections/Default",
-    "creation of the Orc and Human.md",
-    "Fashion in Fundis Point.md",
     "atlas-vtt/assets/Occultist_1791224295085_fo3njc.webp"
   ]
 }
