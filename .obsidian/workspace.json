@@ -10,6 +10,7 @@
           {
             "id": "ac914113917300af",
             "type": "tabs",
+            "dimension": 64.92248062015504,
             "children": [
               {
                 "id": "40553a3eff6ffbee",
@@ -17,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
+                    "file": "Society/Social Constructs/Guilds/Tunnelmen.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -32,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Blade Wharf"
+                  "title": "Tunnelmen"
                 },
                 "group": "066c95b530fbd738"
               }
@@ -41,6 +42,7 @@
           {
             "id": "e4e39fef31667c62",
             "type": "tabs",
+            "dimension": 35.077519379844965,
             "children": [
               {
                 "id": "e302cd7ae285bb06",
@@ -48,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
+                    "file": "Society/Social Constructs/Guilds/Tunnelmen.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -71,12 +73,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.36288736930121057,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Blade Wharf"
+                  "title": "Graph of Tunnelmen"
                 },
                 "group": "066c95b530fbd738"
               }
@@ -104,7 +106,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -153,10 +155,13 @@
             "id": "20d551b9da0f9878",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -265,24 +270,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "40553a3eff6ffbee",
+  "active": "e302cd7ae285bb06",
   "lastOpenFiles": [
+    "Ward Key Signet.md",
+    "Society/Social Constructs/Guilds/Tunnelmen.md",
+    "Untitled.base",
+    "Locations/Known Locations/Fundis Point/Blade Wharf/The Tunnels.md",
+    "Society/Social Constructs/Guilds/Guild of Free Swords.md",
+    "Locations/Known Locations/Fundis Point/Giant's Cradle.md",
+    "History/55 FT, The Taeo Trials.md",
+    "Society/People/Groups/Species/Telepolos.md",
+    "Automata.md",
+    "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
     "Society/Social Constructs/Legal/Book of Laws/The Pathfinder's Accord.md",
     "Society/Social Constructs/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
     "Society/Social Constructs/Titles/High Marshal of the Armies and Chief Commander of the Guard.md",
     "Society/Social Constructs/Legal/Parliament.md",
     "Society/Social Constructs/Legal/Book of Laws",
     "Society/Social Constructs/Guilds/The Guildsleague.md",
-    "Society/Social Constructs/Guilds/Guild of Free Swords.md",
     "Society/Social Constructs/Titles",
     "Society/Social Constructs/Legal",
     "Society/Social Constructs/Guilds",
     "Society/Social Constructs",
-    "Society/People/Groups/Species/Telepolos.md",
     "Society/People/Groups/Species/Orc.md",
     "Society/People/Groups/Species/Human.md",
     "One manufacturer.md",
-    "History/55 FT, The Taeo Trials.md",
     "History/Lawless years.md",
     "Society/Structures/Legal/Book of Laws/The Pathfinder's Accord.md",
     "Society/Structures/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
@@ -294,15 +306,8 @@
     "Society/Structures/Titles",
     "Society/Structures/Legal",
     "Society/Structures/Guilds",
-    "Society/Structures",
     "Society/People/Groups/Species/Cognitive Automata.md",
     "Orc.md",
-    "Lawless years.md",
-    "Human.md",
-    "History/Taeo Trials.md",
-    "Locations/Known Locations/Fundis Point/Blade Wharf/Blade Wharf.md",
-    "Invaders.md",
-    "God B.md",
     "atlas-vtt/assets/Assassin_1791267468040_eo0hwx.webp",
     "atlas-vtt/assets/Knight_1791267468029_hwpayo.webp",
     "atlas-vtt/assets/Wizard_1791267468018_t3aya4.webp",
