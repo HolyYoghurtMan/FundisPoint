@@ -21,6 +21,9 @@ Soon parliament drafted the law that banned the production and sale of these.
 To this day, none of these Automata have ceased function naturally, while some exist in a state of slight disrepair, it seems they may live for as long they can maintain their shells.
 Due to the Cognitive Automaton's advanced intelligence and the possible danger they pose if they go rogue, their whereabouts are constantly tracked by secret agents of the [[Temple of Order]]. 
 
-One Cognitive Automaton slaughtered the whole family it was owned by and disappeared without a trace. Occasionally, Investigators pin a murder on it. No one knows what they look like, but people tell stories of them. It's used as a boogeyman for children, and a seed of mistrust for other automata as many people still use the actions of this crazed lunatic as fuel to call for the eradication of the Cognitive Automaton.
+[[The Metal Butcher|One Cognitive Automaton]] killed everyone in the estate it was kept in, and disappeared without a trace. Occasionally, Investigators pin a murder on it. No one knows what they look like, but people tell stories of them. It's used as a boogeyman for children, and a seed of mistrust for other automata as many people still use the actions of this crazed lunatic as fuel to call for the eradication of the Cognitive Automaton.
 
 Some years after the full emancipation of the Cognitive Automaton, they landed on a name for their kin, the Telepolos or Telepoloi, meaning "One who moves with purpose". Derived from the gnomish dialect of the people that gave them life, but stating their individuality and ability for self-determination.
+### Mechanical Features for 5e
+#### Mechanical Mind
+You always know when a creature attempts to cast Detect Thoughts on you. You have advantage on saving throws against effects that apply the Charmed condition.
