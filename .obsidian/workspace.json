@@ -13,12 +13,12 @@
             "dimension": 64.92248062015504,
             "children": [
               {
-                "id": "40553a3eff6ffbee",
+                "id": "b300203dfc952809",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Society/Social Constructs/Guilds/Tunnelmen.md",
+                    "file": "History/Murder Mystery One shot/The Wight of Bruno Sid.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,9 +33,9 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Tunnelmen"
+                  "title": "The Wight of Bruno Sid"
                 },
-                "group": "066c95b530fbd738"
+                "group": "56b4dda47f303f7d"
               }
             ]
           },
@@ -50,7 +50,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Society/Social Constructs/Guilds/Tunnelmen.md",
+                    "file": "History/Murder Mystery One shot/The Wight of Bruno Sid.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -78,9 +78,9 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Tunnelmen"
+                  "title": "Graph of The Wight of Bruno Sid"
                 },
-                "group": "066c95b530fbd738"
+                "group": "56b4dda47f303f7d"
               }
             ]
           }
@@ -163,8 +163,19 @@
               "icon": "lucide-table",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "40553a3eff6ffbee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Murder Mystery One shot/The Wight of Bruno Sid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,11 +265,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "1e0811b6c51fd664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69ab2dd34e719720",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,13 +294,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "atlas-vtt:Display image on player view": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e302cd7ae285bb06",
+  "active": "b300203dfc952809",
   "lastOpenFiles": [
-    "Ward Key Signet.md",
+    "History/Murder Mystery One shot/shifty human fella named Peter.md",
+    "History/Murder Mystery One shot/The murder of Imvarr Coghorn (one shot).md",
+    "History/Murder Mystery One shot/A homeless orc named Tibar.md",
+    "Fashion in Fundis Point.md",
+    "creation of the Orc and Human.md",
+    "atlas-vtt/collections/Default/statblocks/20261101100045_003.jpg",
+    "atlas-vtt/collections/Default/statblocks/20261101100045_002.jpg",
+    "atlas-vtt/collections/Default/statblocks/20261101100045_004.jpg",
+    "Hoard Scarab Nest Golem.md",
+    "History/Murder Mystery One shot/The Wight of Bruno Sid.md",
+    "Hoard Scarabs.md",
+    "Zombie.md",
+    "atlas-vtt/collections/Default/statblocks/Untitled.md",
+    "atlas-vtt/assets/Assassin_1790845220218_ij5i3g.webp",
+    "atlas-vtt/assets/Occultist_1793522199680_87q8b4.webp",
+    "atlas-vtt/assets/Assassin_1793522199674_k7bj4p.webp",
+    "atlas-vtt/assets/Knight_1793522199666_e9epj4.webp",
+    "atlas-vtt/assets/Wizard_1793522199638_k4t9az.webp",
+    "atlas-vtt/assets/Warlock_1793522199629_hy2305.webp",
+    "atlas-vtt/assets/Rogue_1793522199602_nmpqig.webp",
+    "butcher of metal.md",
+    "History/Murder Mystery One shot",
+    "History/Lawless years.md",
     "Society/Social Constructs/Guilds/Tunnelmen.md",
+    "Ward Key Signet.md",
     "Untitled.base",
     "Locations/Known Locations/Fundis Point/Blade Wharf/The Tunnels.md",
     "Society/Social Constructs/Guilds/Guild of Free Swords.md",
@@ -292,31 +344,8 @@
     "Society/Social Constructs/Legal",
     "Society/Social Constructs/Guilds",
     "Society/Social Constructs",
-    "Society/People/Groups/Species/Orc.md",
-    "Society/People/Groups/Species/Human.md",
-    "One manufacturer.md",
-    "History/Lawless years.md",
-    "Society/Structures/Legal/Book of Laws/The Pathfinder's Accord.md",
-    "Society/Structures/Legal/Book of Laws/Order for  the cessation on Production of Cognitive Automata.md",
-    "Society/Structures/Titles/High Marshal of the Armies and Chief Commander of the Guard.md",
-    "Society/Structures/Legal/Parliament.md",
     "Society/Structures/Legal/Book of Laws",
-    "Society/Structures/Guilds/The Guildsleague.md",
-    "Society/Structures/Guilds/Guild of Free Swords.md",
     "Society/Structures/Titles",
-    "Society/Structures/Legal",
-    "Society/Structures/Guilds",
-    "Society/People/Groups/Species/Cognitive Automata.md",
-    "Orc.md",
-    "atlas-vtt/assets/Assassin_1791267468040_eo0hwx.webp",
-    "atlas-vtt/assets/Knight_1791267468029_hwpayo.webp",
-    "atlas-vtt/assets/Wizard_1791267468018_t3aya4.webp",
-    "atlas-vtt/assets/Warlock_1791267468008_z4003l.webp",
-    "atlas-vtt/assets/Rogue_1791267467997_xdzrzd.webp",
-    "atlas-vtt/assets/Ranger_1791267467987_6d1zuf.webp",
-    "atlas-vtt/assets/Paladin_1791267467975_i0kwfl.webp",
-    "atlas-vtt/assets/Fighter_1791267467963_x2gfe1.webp",
-    "atlas-vtt/assets/Cleric_1791267467943_9dpe91.webp",
-    "atlas-vtt/assets/Occultist_1791224295085_fo3njc.webp"
+    "Society/Structures/Legal"
   ]
 }
